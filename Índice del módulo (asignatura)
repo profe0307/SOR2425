@@ -1,0 +1,22 @@
+Tema 1: Introducción a los Sistemas Operativos en Red:
+  OBJETIVOS
+    Saber qué es un SOR
+    Conocer las características del sistema físico donde se va a instalar para comprobar los REQUISITOS MÍNIMOS que se necesita tener para instalar SOR
+    Tener un entorno virtual para instalar SORes
+    Diferenciar los modos de instalación
+    Elaborar documentación técnica
+  
+  GLOSARIO
+    Arquitectura Cliente-Servidor
+    Código abierto
+    GNU
+    GUI
+    Licencia
+    LTS
+
+  INDICE
+    1) Introducción. Definiciones
+      - Windows Server
+      - Ubuntu Server
+    2) Comprobación de requisitos mínimos de instalación
+    3) Elaboración de documentación técnica
