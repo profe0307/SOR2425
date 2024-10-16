@@ -22,3 +22,25 @@ Tema 1: Introducción a los Sistemas Operativos en Red:
     3) Elaboración de documentación técnica
 
 TEMA 2: Modos de instalación de sistemas operativos
+ OBJETIVOS
+  Identificar, crear, eliminar y formatear particiones
+  Configurar software de aplicación
+  Instalar SO en sistema físico y en VM
+  Instalar SO vía PXE
+  
+  GLOSARIO
+    CLI
+    DHCP
+    Gparted
+    INETD
+    ISO
+    PXE  
+    TFPT
+
+  INDICE
+    1) Introducción. 
+      -BIOS y particiones
+    2) Instalación de SO a través de USB
+    3) Montaje de varias ISO en un solo USB
+    4) Instalación de SO en VM
+    5) PXE
